@@ -1,6 +1,6 @@
 def my_hash
-  my_hash = 
-
+  my_hash = {"cherries", "oranges", "bananas"}
+end
   
 end
 
